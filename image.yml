@@ -13,6 +13,17 @@ release:
   branch: '3.24'
   tag: '3.24'
   channel: stable
+  tags:
+  - tag: '3.24'
+    description: Alpine 3.24.
+  - tag: '3.23'
+    description: Alpine 3.23.
+  - tag: '3.22'
+    description: Alpine 3.22.
+  - tag: '3.21'
+    description: Alpine 3.21.
+  - tag: edge
+    description: Alpine edge, the rolling development release. Unstable.
 
 build:
   base: alpine
