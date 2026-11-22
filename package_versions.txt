@@ -3,7 +3,7 @@ acl-libs                2.3.2-r1          apk
 alpine-baselayout       3.7.2-r1          apk   
 alpine-baselayout-data  3.7.2-r1          apk   
 alpine-keys             2.6-r0            apk   
-apk-tools               3.0.10-r0         apk   
+apk-tools               3.0.10-r1         apk   
 bash                    5.3.9-r2          apk   
 brotli-libs             1.2.1-r0          apk   
 busybox                 1.38.0-r8         apk   
@@ -19,7 +19,7 @@ coreutils-sha512sum     9.11-r3           apk
 curl                    8.23.0-r0         apk   
 findutils               4.11.0-r2         apk   
 jq                      1.8.2-r0          apk   
-libapk                  3.0.10-r0         apk   
+libapk                  3.0.10-r1         apk   
 libattr                 2.5.2-r2          apk   
 libbsd                  0.12.2-r0         apk   
 libcrypto3              3.5.9-r1          apk   
